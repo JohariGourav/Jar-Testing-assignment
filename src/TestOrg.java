@@ -9,7 +9,5 @@ public class TestOrg {
 
 		Org org = new Org(1052, "Dell", 10000000);
 		org.disp();
-
 	}
-
 }
